@@ -1,0 +1,14 @@
+Soal - 01
+Kamu diminta untuk melakukan analisa sederhana terhadap beberapa masalah dan tuliskan jawaban kamu di dalam file 07-web-storage-01.txt.
+
+Apa itu localStorage?
+Apa itu cookies?
+Apa perbedaan antara localStorage dan sessionStorage?
+
+
+Local Storage : is a property that allows JavaScript sites and apps to save key-value pairs in a web browser with no expiration date.
+
+Cookies : is an amount of information that persists between a server-side and a client-side.
+
+Data yang disimpan pada session storage akan terus tersimpan selama browser terbuka dan tidak hilang jika laman di-reload.
+Membuka banyak tab/window dengan URL yang sama, akan menciptakan session storage yang berbeda di masing-masing tab/window.
